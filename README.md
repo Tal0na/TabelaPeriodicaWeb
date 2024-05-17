@@ -6,7 +6,7 @@ Este é um projeto que apresenta uma implementação da Tabela Periódica dos El
 ## Funcionalidades
 
 - Visualização dos elementos químicos na tabela periódica.
-- Interatividade para destacar informações adicionais ao passar o mouse sobre os elementos.
+- Interatividade para destacar informações adicionais ao clicar nos elementos.
 - Design responsivo que se adapta a diferentes tamanhos de tela.
 
 ## Pré-requisitos
